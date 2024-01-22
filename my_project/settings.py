@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-rp4p_zr3gz)^0)p=u+v#v=e__3dp=+yr48t*+n40e-@f@o_%7='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['8000-flyhighhher-djangoproje-as0pymwa915.ws-eu107.gitpod.io']
 
